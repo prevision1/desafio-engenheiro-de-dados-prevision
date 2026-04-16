@@ -103,4 +103,4 @@ Após a entrega, você terá até 60 minutos para apresentar e debater a sua sol
 
 Esteja preparado(a) para perguntas sobre suas escolhas técnicas e sobre os dados.
 
-Qualquer dúvida sobre o desafio pode ser enviada para [email do recrutador]. Boa sorte!
+Qualquer dúvida sobre o desafio pode ser enviada para [leonidas.yopan@starian.com](mailto:leonidas.yopan@starian.com). Boa sorte!
